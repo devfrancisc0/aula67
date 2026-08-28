@@ -2,9 +2,9 @@
 
 int main() {
     int a = 5, b = 2;
-    int inteiro = a / b;          // Resultado: 2
-    int resto = a % b;            // Resultado: 1
-    float real = (float)a / b;    // Resultado: 2.5
+    int inteiro = a / b;         
+    int resto = a % b;            
+    float real = (float)a / b;   
 
     printf("Divisao inteira: %d\n", inteiro);
     printf("Resto: %d\n", resto);

@@ -1,2 +1,4 @@
-# aula67
-aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67aula67
+#include <stdio.h>
+
+    int main(void)
+    printf("Meu primeiro versionamento de code.")
